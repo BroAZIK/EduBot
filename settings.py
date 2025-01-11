@@ -1,0 +1,7 @@
+TOKEN        = "5711366598:AAGZTgg6kUyDQVkXug_lchhUdB3gJe1lEU8"
+CHANNEL      = ""
+ADMIN_ID     = 5143376517
+
+
+# Photos
+start_photo = "AgACAgIAAxkBAAIC82Yj9-AksiOaHPrCKfLacI5mz_z1AAK92zEbDkoYSZ7G9fSm_GwHAQADAgADeAADNAQ"

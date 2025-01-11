@@ -1,0 +1,22 @@
+{
+    "Unit-1": { 
+        "1": { 
+            "ENG": "if", 
+            "UZB": "agar"
+        },
+         "2": { 
+            "ENG": "else", 
+            "UZB": "aks holda" 
+        } 
+    }, 
+     "Unit-2": { 
+        "1": { 
+            "ENG": "open", 
+            "UZB": "ochmoq"
+        },
+         "2": { 
+            "ENG": "close", 
+            "UZB": "yopmoq" 
+        } 
+    }
+}
